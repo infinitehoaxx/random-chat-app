@@ -72,7 +72,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/random-chat-app.git
+   git clone https://github.com/infinitehoaxx/random-chat-app.git
    ```
 
 2. Navigate to the project directory:
@@ -98,7 +98,7 @@ Before you begin, ensure you have the following installed:
 
 1. Go to [Replit](https://replit.com/) and sign up or log in.
 2. Click on "Create Repl" and select "Import from GitHub".
-3. Paste the URL of this GitHub repository: `https://github.com/yourusername/random-chat-app.git`
+3. Paste the URL of this GitHub repository: `https://github.com/infinitehoaxx/random-chat-app.git`
 4. Click on "Import from GitHub".
 5. Once the project is imported, click on the "Run" button at the top.
 6. Replit will install the dependencies and start the server.
@@ -118,7 +118,7 @@ Glitch is a fantastic platform for hosting and collaboratively editing full-stac
    - Select "Import from GitHub"
 
 3. **Import Your Repository**:
-   - In the pop-up, paste your GitHub repository URL: `https://github.com/yourusername/random-chat-app.git`
+   - In the pop-up, paste your GitHub repository URL: `https://github.com/infinitehoaxx/random-chat-app.git`
    - Click "OK"
 
 4. **Wait for Import**:
@@ -252,6 +252,6 @@ If you have any questions, feel free to reach out:
 
 - **Project Maintainer**: Your Name
 - **Email**: your.email@example.com
-- **Project Repository**: [https://github.com/yourusername/random-chat-app](https://github.com/yourusername/random-chat-app)
+- **Project Repository**: [https://github.com/infinitehoaxx/random-chat-app](https://github.com/infinitehoaxx/random-chat-app)
 
 We'd love to hear your feedback and suggestions for improving the Random Chat App!
