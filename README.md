@@ -250,8 +250,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 If you have any questions, feel free to reach out:
 
-- **Project Maintainer**: Your Name
-- **Email**: your.email@example.com
+- **Project Maintainer**: Infinite Hoax
+- **Email**: infinitehoax@proton.me
 - **Project Repository**: [https://github.com/infinitehoaxx/random-chat-app](https://github.com/infinitehoaxx/random-chat-app)
 
 We'd love to hear your feedback and suggestions for improving the Random Chat App!
