@@ -1,0 +1,21 @@
+{
+  "name": "random-chat-app",
+  "version": "1.0.0",
+  "description": "A random real-time chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chat",
+    "random",
+    "real-time"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.1",
+    "peer": "^0.6.1"
+  }
+}
